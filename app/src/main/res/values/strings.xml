@@ -11,4 +11,70 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="link1">
+        <a href="https://www.alrajhibank.com.sa/careers/graduate-program">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link2">
+        <a href="https://www.aramco.com/ar/careers/saudi-applicants/non-employee-programs/university-and-vocational-college-internship-programs/university-internship-program">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link3">
+        <a href="https://moh-training.com/">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link4">
+        <a href="https://www.elm.sa/ar/Pages/default.aspx">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link5">
+        <a href="https://surveys.sfda.gov.sa/zs/SXRzsh">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link6">
+        <a href="https://tas-johnsoncontrols.taleo.net/careersection/10000/jobdetail.ftl?job=1911179&tz=GMT%2B03%3A00&tzname=Asia%2FRiyadh">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link7">
+        <a href="https://sr.edu.sa/site/">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link8">
+        <a href="https://www.tvtc.gov.sa/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="hilal">
+        <a href="https://srcavolunteer.srca.org.sa/#!/home"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="ttwe">
+        <a href="https://nvg.gov.sa/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="tkatf">
+        <a href="https://sv.org.sa/volunteersinfo/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="hiwar">
+        <a href="https://www.kacnd.org/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="eraq">
+        <a href="https://sv.org.sa/volunteersinfo/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="motwiron">
+        <a href="https://www.motawiroon.org.sa/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="tnmih">
+        <a href="https://tanmyahakma.org/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="rodah">
+        <a href="http://www.arrawdah.com/dimofinf/"> الموقع الإالكتروني</a>
+    </string>
+
 </resources>
